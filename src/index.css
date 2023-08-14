@@ -1,0 +1,86 @@
+.FormLogin {
+  margin: 15% 7% 0;
+  display: flex;
+  justify-content: center;
+}
+.login-form {
+  padding: 50px;
+  max-width: 300px;
+  border: 2px solid white;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  background-color: white;
+}
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+  width: 100%;
+  color: grey;
+  background-color: black;
+}
+.welcome {
+  font-size: 2rem;
+  font-family: "Arvo", cursive;
+  text-align: center;
+}
+.blogIndicator {
+  width: 800px;
+}
+.raphael-group-wMuWlOtc {
+  display: none;
+}
+.raphael-group-TKOurgGq {
+  display: none;
+}
+.raphael-group-ddnyUoTW {
+  display: none;
+}
+.raphael-group-QjoXqziL {
+  display: none;
+}
+.allbody {
+  flex-wrap: wrap;
+}
+.allIndicator {
+  margin: 0 5%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+.blog {
+  display: flex;
+  margin: 15px 30px;
+}
+.Navigation {
+  border-radius: 20px;
+  display: flex;
+}
+.Menu {
+  flex-direction: column;
+  display: block;
+  border-radius: 20px;
+}
+.navbar {
+  margin: 0 7%;
+  padding-right: 3rem;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.LOGOSCC {
+  margin: 0 25px;
+  padding: 10px 0;
+  width: 200px;
+  height: auto;
+}
+.menuGroup {
+  margin: 20px 0 20px 7%;
+}
